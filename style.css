@@ -109,3 +109,9 @@ p {
   h1 { font-size: 2.5rem; }
   p { font-size: 1.2rem; }
 }
+@font-face {
+  font-family: 'Pudelinka';
+  src: url('fonts/Pudelinka.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
